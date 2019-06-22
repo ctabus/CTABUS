@@ -31,5 +31,5 @@ Workflow:
 
 * the final product was hosted on `github.io`
 
-#### Contributors: [Bercin Cenik](https://wwww.github.com/bkcenik), [Tina Huang](https://wwww.github.com/tinahuangyt), Elias El Metannani(https://wwww.github.com/eliaselmet), and Geyang He.
+#### Contributors: [Bercin Cenik](https://wwww.github.com/bkcenik), [Tina Huang](https://wwww.github.com/tinahuangyt), [Elias El Metannani](https://wwww.github.com/eliaselmet), and Geyang He.
 
