@@ -3,7 +3,7 @@
 
 CTABUS is the second project for **Northwestern data science bootcamp**.
 
-The main goal of the project was to create a tracker app for [CTA buses](www.ctabustracker.com/). The title of the project comes from Hayao Miyazaki's film **My Neighbor Totoro**, which features the catbus:
+The main goal of the project was to create a tracker app for [CTA buses](https://www.transitchicago.com/). The title of the project comes from Hayao Miyazaki's film **My Neighbor Totoro**, which features the catbus:
 
 ![catbus](https://www.johnnytimes.com/wp-content/uploads/2016/11/totoro-catbus-nekobasu-1024x574.jpg)
 
