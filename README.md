@@ -41,6 +41,10 @@ Challenges:
     * GET query results to second form in tracker.html for user selection
     * user selection updating CTA web app
 
+Notes:
+* to visualize, run `flaskapp.py` locally
+* static webpage is also hosted on [my own github](https://bkcenik.github.io/CTABUS/).
+
 
 #### Contributors: [Bercin Cenik](https://wwww.github.com/bkcenik), [Tina Huang](https://wwww.github.com/tinahuangyt), [Elias El Metannani](https://wwww.github.com/eliaselmet), and Geyang He.
 
