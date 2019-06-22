@@ -31,5 +31,12 @@ Workflow:
 
 * the final product was hosted on `github.io`
 
+Challenges:
+
+* while the idea behind the app was fairly simple, there were several challenges we encountered:
+    * bootstrap incompatibility with flask
+    * building the query string by looping through stops
+    * hosting on flask
+
 #### Contributors: [Bercin Cenik](https://wwww.github.com/bkcenik), [Tina Huang](https://wwww.github.com/tinahuangyt), [Elias El Metannani](https://wwww.github.com/eliaselmet), and Geyang He.
 
