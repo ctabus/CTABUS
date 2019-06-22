@@ -34,8 +34,9 @@ Workflow:
 Challenges:
 
 * while the idea behind the app was fairly simple, there were several challenges we encountered:
+    * ~bootstrap incompatibility with flask~ fixed
     * html form POST to flask
-    *	get user input from POST and query db to return stops
+    * get user input from POST and query db to return stops
     * formatting of tracker.html pointing to /tracker/static instead of /static
     * GET query results to second form in tracker.html for user selection
     * user selection updating CTA web app
